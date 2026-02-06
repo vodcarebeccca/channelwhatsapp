@@ -3,10 +3,10 @@ import { ChannelData, ChannelContextType } from '../types';
 
 const defaultData: ChannelData = {
   name: "Pemersatu Bangsa 🔞",
-  description: "Bakal Update Setiap Hari!!!",
-  image: "https://picsum.photos/200/200", // Default placeholder
-  destinationLink: "https://www.whatsapp.com",
-  verified: false
+  description: "Video Update Setiap Hari!!!",
+  image: "https://i.postimg.cc/jj5QQ6rT/Screenshot-20260107-133645-1.jpg", // Default placeholder
+  destinationLink: "https://whatsapp.com/channel/0029VbC9OkT4Y9liQTZ97D2N",
+  verified: true
 };
 
 const ChannelContext = createContext<ChannelContextType | undefined>(undefined);
