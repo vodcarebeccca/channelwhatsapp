@@ -1,0 +1,5 @@
+{
+  "name": "WA Channel Clone",
+  "description": "A clone of the WhatsApp Channel invite interface with a customizable admin panel and mock login.",
+  "requestFramePermissions": []
+}
