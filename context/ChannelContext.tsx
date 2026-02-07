@@ -4,7 +4,7 @@ import { ChannelData, ChannelContextType } from '../types';
 const defaultData: ChannelData = {
   name: "Pemersatu Bangsa 🔞",
   description: "Video Update Setiap Hari!!!",
-  image: "https://i.ibb.co.com/KjKgGxGK/Screenshot-20260107-133645-1.jpg", // Default placeholder
+  image: "https://i.ibb.co.com/ZpyMWNGm/Screenshot-20260107-133645-1.jpg", // Default placeholder
   destinationLink: "https://whatsapp.com/channel/0029VbC9OkT4Y9liQTZ97D2N",
   verified: true
 };
